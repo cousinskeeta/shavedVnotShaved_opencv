@@ -95,7 +95,7 @@ python-dateutil==2.8.1
 python-jsonrpc-server==0.3.4
 python-language-server==0.31.10
 pytz==2019.3
-PyYAML==5.3.1
+PyYAML==5.4
 pyzmq==18.1.1
 QDarkStyle==2.8.1
 QtAwesome==0.7.0
