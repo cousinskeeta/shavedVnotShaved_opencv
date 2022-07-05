@@ -126,7 +126,7 @@ termcolor==1.1.0
 testpath==0.4.4
 tornado==6.0.4
 traitlets==4.3.3
-ujson==1.35
+ujson==5.4.0
 urllib3==1.25.8
 watchdog==0.10.2
 wcwidth==0.1.9
